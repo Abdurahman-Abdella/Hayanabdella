@@ -188,7 +188,7 @@ navItem.forEach((navItem) => {
 });
 
 ScrollReveal({
-  //  reset: true, 
+    reset: true, 
     distance: '50px', 
     duration: 1200, 
     delay: 200, 
